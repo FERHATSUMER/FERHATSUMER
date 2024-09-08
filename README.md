@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on Clinical Grade AI App
 
-🌱 I’m currently learning AWS-Azure
+🌱 I’m currently learning React Native
 
 👨‍💻 All of my projects are available at https://github.com/FERHATSUMER
 
